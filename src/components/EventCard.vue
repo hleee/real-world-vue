@@ -1,15 +1,26 @@
 <template>
-  <h1></h1>
-  <div>
+  <h1 v-if="" @click="handler(arg, event)"></h1>
+  <!-- <div>
       <ul>
           <li></li>
       </ul>
-  </div>
+  </div> -->
 </template>
 
 <script>
+import { libName } from 'libName';
 export default {
-
+props: {
+  propName: {
+    type: Number,
+    default: 
+  },
+},
+data() {
+  return {
+    key: value
+  }
+},
 }
 </script>
 
