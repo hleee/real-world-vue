@@ -29,7 +29,7 @@ npm run lint
 ```
 
 ### Mock server
-Note that this application is front only and requires a mock server to display contents.  
+Note that this application is front only and requires a mock server to display its contents.  
 
 #### Mock server installation
 ```
@@ -41,7 +41,7 @@ npm install -g json-server
 json-server --watch db.json    // mock database file name being 'db.json' in this case 
 ```
 
-### Customize configuration
+### Customise configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).  
 
 ### Shout-out to...
