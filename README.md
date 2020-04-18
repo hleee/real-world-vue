@@ -5,6 +5,8 @@
 <img width="450" src="https://user-images.githubusercontent.com/56017715/79648043-616c3300-81eb-11ea-8f09-7a7218de24e9.png">
 </div>
 
+Real World Vue is a simple Vue.js tutorial application. Its main page displays a list of events, and clicking on one of the event cards shows further details.
+
 ### Project setup
 ```
 npm install
@@ -35,7 +37,7 @@ npm install -g json-server
 
 #### Mock server to watch specified data file
 ```
-json-server --watch db.json // mock database file name being 'db.json' 
+json-server --watch db.json    // mock database file name being 'db.json' in this case 
 ```
 
 ### Customize configuration
