@@ -50,4 +50,4 @@ json-server --watch db.json    // mock database file name being 'db.json' in thi
 See [Configuration Reference](https://cli.vuejs.org/config/).  
 
 ### Shout-out to...
-[Vue Mastery](https://www.vuemastery.com/) for making our coronavirus house arrests vuesome with their Free Week 2020. Stay safe everyone! ✌️
+[Vue Mastery](https://www.vuemastery.com/) for making our coronavirus house arrests *vuesome* with their Free Week 2020. Stay safe everyone! ✌️
