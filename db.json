@@ -3,12 +3,12 @@
     {
       "id": 1,
       "title": "Beach Cleanup",
-      "date": "Aug 28 2018",
+      "date": "Apr 28 2020",
       "time": "10:00",
       "location": "Daytona Beach",
       "description": "Let's clean up this beach.",
       "organizer": "Adam Jahr",
-      "category": "sustainability",
+      "category": "Sustainability",
       "attendees": [
         {
           "id": "abc123",
@@ -31,12 +31,12 @@
     {
       "id": 2,
       "title": "Park Cleanup",
-      "date": "Nov 12 2018",
+      "date": "May 12 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "We're going to clean up this park.",
       "organizer": "Adam Jahr",
-      "category": "nature",
+      "category": "Nature",
       "attendees": [
         {
           "id": "ghi789",
@@ -51,12 +51,12 @@
     {
       "id": 3,
       "title": "Pet Adoption Day",
-      "date": "Dec 2 2018",
+      "date": "May 21 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
       "description": "Help animals find new homes.",
       "organizer": "Gregg Pollack",
-      "category": "animal welfare",
+      "category": "Animal welfare",
       "attendees": [
         {
           "id": "abc123",
@@ -75,12 +75,12 @@
     {
       "id": 4,
       "title": "Disco Party",
-      "date": "Aug 28 2018",
+      "date": "May 28 2020",
       "time": "10:00",
-      "location": "Daytona Beach",
-      "description": "Let's clean up this beach.",
+      "location": "Aunt Jemima's Basement",
+      "description": "Let's dance.",
       "organizer": "Adam Jahr",
-      "category": "sustainability",
+      "category": "Community",
       "attendees": [
         {
           "id": "abc123",
@@ -103,12 +103,12 @@
     {
       "id": 5,
       "title": "Vue Users Group",
-      "date": "Nov 12 2018",
+      "date": "May 29 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "We're going to clean up this park.",
+      "description": "We're going to vue this and that.",
       "organizer": "Adam Jahr",
-      "category": "nature",
+      "category": "Education",
       "attendees": [
         {
           "id": "ghi789",
@@ -123,12 +123,12 @@
     {
       "id": 6,
       "title": "Orlando Dev Meetup",
-      "date": "Dec 2 2018",
+      "date": "Jun 2 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "Help animals find new homes.",
+      "description": "Help animals find new homes by attending our Dev Meetup.",
       "organizer": "Gregg Pollack",
-      "category": "animal welfare",
+      "category": "Education",
       "attendees": [
         {
           "id": "abc123",
@@ -147,12 +147,12 @@
     {
       "id": 7,
       "title": "Yoga Class",
-      "date": "Aug 28 2018",
+      "date": "Jun 7 2020",
       "time": "10:00",
       "location": "Daytona Beach",
-      "description": "Let's clean up this beach.",
+      "description": "Keep at least 2 metres apart.",
       "organizer": "Adam Jahr",
-      "category": "sustainability",
+      "category": "Sustainability",
       "attendees": [
         {
           "id": "abc123",
@@ -175,12 +175,12 @@
     {
       "id": 8,
       "title": "Breathing Meditation",
-      "date": "Nov 12 2018",
+      "date": "Jun 12 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "We're going to clean up this park.",
+      "description": "We're going to breathe up this park.",
       "organizer": "Adam Jahr",
-      "category": "nature",
+      "category": "Nature",
       "attendees": [
         {
           "id": "ghi789",
@@ -195,12 +195,12 @@
     {
       "id": 9,
       "title": "Dancing Class",
-      "date": "Dec 2 2018",
+      "date": "Jun 18 2020",
       "time": "12:00",
       "location": "132 N Magnolia Street, Orlando, Florida",
-      "description": "Help animals find new homes.",
+      "description": "Help animals find new homes by dancing.",
       "organizer": "Gregg Pollack",
-      "category": "animal welfare",
+      "category": "Animal welfare",
       "attendees": [
         {
           "id": "abc123",
@@ -218,7 +218,7 @@
     },
     {
       "id": 10,
-      "category": "animal welfare",
+      "category": "Animal welfare",
       "organizer": {
         "user": {
           "id": "abc123",
