@@ -1,15 +1,18 @@
-import axios from "axios"
+import axios from 'axios'
 
 const apiClient = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL: 'http://localhost:3000',
   withCredentials: false
 })
 
 export default {
   getEvents() {
-    return apiClient.get("/events")
+    return apiClient.get('/events')
   },
   getEvent(id) {
-    return apiClient.get("/events/" + id)
+    return apiClient.get('/events/' + id)
+  },
+  postEvent(event) {
+    return apiClient.post('/events', event)
   }
 }
